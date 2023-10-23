@@ -1,0 +1,16 @@
+.griddy{
+display: grid;
+grid-template-columns: 1fr 1fr 2fr;
+grid-template-rows: 1fr 2fr 1fr;
+gap: 5px;
+}
+
+.bild{
+width: 300px;
+height: auto;
+}
+
+h1{
+grid-column: 2/4;
+
+}
