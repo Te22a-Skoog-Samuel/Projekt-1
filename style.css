@@ -53,7 +53,6 @@ grid-row: 1/2;
 justify-self: center;
 padding-top: 50px;
 border: solid;
-
 padding-left: 200px;
 padding-right: 200px;
 background-color: #E55555;
@@ -63,7 +62,6 @@ background-color: #E55555;
 grid-row: 2/3;
 grid-column: 1/2;
 padding-right: 70px ;
-
 }
 
 .ListClass{
@@ -86,3 +84,47 @@ ul li{
 margin-bottom: 15px;
 }
 
+.igrediensLista{
+border: solid black;
+height: 12%;
+width: 92% ;
+font-size: 120%;
+background-color: #E55555;
+}
+
+.igrediensLista2{
+border: solid black;
+height: 12%;
+width: 92%;
+font-size:120%;
+background-color: #E55555;
+}
+
+.igrediensLista3{
+border: solid black;
+height: 12%;
+width: 92%;
+font-size:120%;
+background-color: #E55555;
+}
+
+.igrediensLista4{
+border: solid black;
+height: 12%;
+width: 92%;
+font-size:120%;
+background-color: #E55555;
+}
+
+.igrediensLista5{
+border: solid black;
+height: 18%;
+width: 92%;
+font-size:120%;
+background-color: #E55555;
+}
+
+footer{
+grid-column: 1/4;
+grid-row: 3/4;
+}
